@@ -1,0 +1,12 @@
+D:\project sqlink\server\server.Core\bin\Debug\net8.0\server.Core.deps.json
+D:\project sqlink\server\server.Core\bin\Debug\net8.0\server.Core.dll
+D:\project sqlink\server\server.Core\bin\Debug\net8.0\server.Core.pdb
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.AssemblyInfoInputs.cache
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.AssemblyInfo.cs
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.csproj.CoreCompileInputs.cache
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.dll
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\refint\server.Core.dll
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.pdb
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\ref\server.Core.dll
+D:\project sqlink\server\server.Core\obj\Debug\net8.0\server.Core.csproj.AssemblyReference.cache

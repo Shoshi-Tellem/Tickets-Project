@@ -1,0 +1,15 @@
+D:\project sqlink\server\server.Service\bin\Debug\net8.0\server.Service.deps.json
+D:\project sqlink\server\server.Service\bin\Debug\net8.0\server.Service.dll
+D:\project sqlink\server\server.Service\bin\Debug\net8.0\server.Service.pdb
+D:\project sqlink\server\server.Service\bin\Debug\net8.0\server.Core.dll
+D:\project sqlink\server\server.Service\bin\Debug\net8.0\server.Core.pdb
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.csproj.AssemblyReference.cache
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.AssemblyInfoInputs.cache
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.AssemblyInfo.cs
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.csproj.CoreCompileInputs.cache
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.S.2645CD65.Up2Date
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.dll
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\refint\server.Service.dll
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\server.Service.pdb
+D:\project sqlink\server\server.Service\obj\Debug\net8.0\ref\server.Service.dll

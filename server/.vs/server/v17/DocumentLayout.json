@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project sqlink\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|d:\\project sqlink\\server\\server.core\\extensions\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\extensions\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|D:\\project sqlink\\server\\server.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|solutionrelative:server.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998189B-A7BE-4DD4-A953-230AC2192AC8}|server.Service\\server.Service.csproj|D:\\project sqlink\\server\\server.service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998189B-A7BE-4DD4-A953-230AC2192AC8}|server.Service\\server.Service.csproj|solutionrelative:server.service\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\extensions\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998189B-A7BE-4DD4-A953-230AC2192AC8}|server.Service\\server.Service.csproj|D:\\project sqlink\\server\\server.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998189B-A7BE-4DD4-A953-230AC2192AC8}|server.Service\\server.Service.csproj|solutionrelative:server.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|D:\\project sqlink\\server\\server.data\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|solutionrelative:server.data\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|D:\\project sqlink\\server\\server.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|solutionrelative:server.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|D:\\project sqlink\\server\\server.api\\server.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC5D0A8B-C3AE-46ED-8DB9-38E14BBA3222}|server.Api\\server.Api.csproj|solutionrelative:server.api\\server.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|D:\\project sqlink\\server\\server.core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96AA5-7699-490A-9600-8A00F81B3FE3}|server.Core\\server.Core.csproj|solutionrelative:server.core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|D:\\project sqlink\\server\\server.Data\\Migrations\\20250525105124_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F304CB-0545-44E7-85D7-0C1C39F8ABAB}|server.Data\\server.Data.csproj|solutionrelative:server.Data\\Migrations\\20250525105124_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Extensions\\Login.cs",
+              "RelativeDocumentMoniker": "server.Core\\Extensions\\Login.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Extensions\\Login.cs",
+              "RelativeToolTip": "server.Core\\Extensions\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:16:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "server.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "server.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:13:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "server.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "server.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:25:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "server.Api\\Controllers\\TicketController.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "server.Api\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:16:43.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "server.Core\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "server.Core\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:23:06.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "server.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Entities\\User.cs",
+              "RelativeToolTip": "server.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:02:45.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Extensions\\Mapping.cs",
+              "RelativeDocumentMoniker": "server.Core\\Extensions\\Mapping.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Extensions\\Mapping.cs",
+              "RelativeToolTip": "server.Core\\Extensions\\Mapping.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:32:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\Program.cs",
+              "RelativeDocumentMoniker": "server.Api\\Program.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\Program.cs",
+              "RelativeToolTip": "server.Api\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:29:15.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "server.Api\\appsettings.json",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\appsettings.json",
+              "RelativeToolTip": "server.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T10:41:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Service\\TicketService.cs",
+              "RelativeDocumentMoniker": "server.Service\\TicketService.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Service\\TicketService.cs",
+              "RelativeToolTip": "server.Service\\TicketService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:38:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Services\\ITicketService.cs",
+              "RelativeDocumentMoniker": "server.Core\\Services\\ITicketService.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Services\\ITicketService.cs",
+              "RelativeToolTip": "server.Core\\Services\\ITicketService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:41:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "server.Data\\DataContext.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Data\\DataContext.cs",
+              "RelativeToolTip": "server.Data\\DataContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:20:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Repositories\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "server.Core\\Repositories\\IRepositoryManager.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Repositories\\IRepositoryManager.cs",
+              "RelativeToolTip": "server.Core\\Repositories\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:31:39.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "server.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "server.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:30:30.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "server.Core\\Services\\IUserService.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Services\\IUserService.cs",
+              "RelativeToolTip": "server.Core\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:10:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "server.Service\\UserService.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Service\\UserService.cs",
+              "RelativeToolTip": "server.Service\\UserService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:05:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Data\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "server.Data\\RepositoryManager.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Data\\RepositoryManager.cs",
+              "RelativeToolTip": "server.Data\\RepositoryManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:34:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "server.Data\\Repository.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Data\\Repository.cs",
+              "RelativeToolTip": "server.Data\\Repository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:28:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250525105124_createDB.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Data\\Migrations\\20250525105124_createDB.cs",
+              "RelativeDocumentMoniker": "server.Data\\Migrations\\20250525105124_createDB.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Data\\Migrations\\20250525105124_createDB.cs",
+              "RelativeToolTip": "server.Data\\Migrations\\20250525105124_createDB.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:51:24.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "server.Core\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\Entities\\Ticket.cs",
+              "RelativeToolTip": "server.Core\\Entities\\Ticket.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:13:42.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Core\\DTOs\\TicketDto.cs",
+              "RelativeDocumentMoniker": "server.Core\\DTOs\\TicketDto.cs",
+              "ToolTip": "D:\\project sqlink\\server\\server.Core\\DTOs\\TicketDto.cs",
+              "RelativeToolTip": "server.Core\\DTOs\\TicketDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:57:10.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "server.Api.csproj",
+              "DocumentMoniker": "D:\\project sqlink\\server\\server.Api\\server.Api.csproj",
+              "RelativeDocumentMoniker": "server.Api\\server.Api.csproj",
+              "ToolTip": "D:\\project sqlink\\server\\server.Api\\server.Api.csproj",
+              "RelativeToolTip": "server.Api\\server.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T10:25:33.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
